@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "63418486d0e121671e4d3925"
+  },
+  "username": "johnmakola",
+  "groupno": "gl001",
+  "groupname": "Wamama Mtaani",
+  "grouptype": "Community",
+  "groupdescription": "A group from Matopeni Ward we support each other throup Go Round Contributions",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38ee"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38f8"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3902"
+  },
+  "� groupLocation": "Matopeni",
+  "� createdAt": "2022-10-08T12:45:18.302Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d3926"
+  },
+  "username": "johnmakola",
+  "groupno": "gl002",
+  "groupname": "Mapendano Group",
+  "grouptype": "Community",
+  "groupdescription": "A Young aldults Group . Supporting our members getting started with young families through social welfare and business",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38ef"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38f9"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3903"
+  },
+  "� groupLocation": "Huruma",
+  "� createdAt": "2022-10-08T12:45:31.335Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d3927"
+  },
+  "username": "johnmakola",
+  "groupno": "gl003",
+  "groupname": "Ushirika Group",
+  "grouptype": "Business",
+  "groupdescription": "A Community empowerment Group for Small Businesses",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f0"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38fa"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3904"
+  },
+  "� groupLocation": "Kaloleni",
+  "� createdAt": "2022-10-08T12:45:59.293Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d3928"
+  },
+  "username": "johnmakola",
+  "groupno": "gl004",
+  "groupname": "Vijana na Kazi",
+  "grouptype": "Community",
+  "groupdescription": "A Youth Group for Members in College",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f1"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38fb"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3905"
+  },
+  "� groupLocation": "Mathare",
+  "� createdAt": "2022-10-08T12:47:01.806Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d3929"
+  },
+  "username": "johnmakola",
+  "groupno": "gl005",
+  "groupname": "BodaBoda Group",
+  "grouptype": "Business",
+  "groupdescription": "A BodaBoda Members Group for Social Support",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f2"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38fc"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3906"
+  },
+  "� groupLocation": "Kibera",
+  "� createdAt": "2022-10-08T12:47:13.279Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d392a"
+  },
+  "username": "johnmakola",
+  "groupno": "gl006",
+  "groupname": "Uzima YouthGroup",
+  "grouptype": "Community",
+  "groupdescription": "A Church Based Youth Group for Social and Business Support",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f3"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38fd"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3907"
+  },
+  "� groupLocation": "Umoja",
+  "� createdAt": "2022-10-08T13:10:21.735Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d392b"
+  },
+  "username": "johnmakola",
+  "groupno": "gl007",
+  "groupname": "Walimu Group",
+  "grouptype": "Work",
+  "groupdescription": "A Primary School and Local Secondary Teachers Group",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f4"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38fe"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3908"
+  },
+  "� groupLocation": "Utawala",
+  "� createdAt": "2022-10-08T12:45:18.302Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d392c"
+  },
+  "username": "johnmakola",
+  "groupno": "gl008",
+  "groupname": "Biashara Group",
+  "grouptype": "Business",
+  "groupdescription": "A Business Men andWomen Investment Group ",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f5"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d38ff"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d3909"
+  },
+  "� groupLocation": "Maili Saba",
+  "� createdAt": "2022-10-08T12:45:31.335Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d392d"
+  },
+  "username": "johnmakola",
+  "groupno": "gl009",
+  "groupname": "Jenga Mama Group",
+  "grouptype": "Business",
+  "groupdescription": "A Women Empowerment group for Small Businesses",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f6"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d3900"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d390a"
+  },
+  "� groupLocation": "Kilimani",
+  "� createdAt": "2022-10-08T12:45:59.293Z"
+},{
+  "_id": {
+    "$oid": "63418486d0e121671e4d392e"
+  },
+  "username": "johnmakola",
+  "groupno": "gl010",
+  "groupname": "Jirani Mwema",
+  "grouptype": "Community",
+  "groupdescription": "A Social  Welfare Group",
+  "groupadmin": {
+    "$oid": "63417f90d0e121671e4d38f7"
+  },
+  "� grouptresurer": {
+    "$oid": "63417f90d0e121671e4d3901"
+  },
+  "� groupsecretary": {
+    "$oid": "63417f90d0e121671e4d390b"
+  },
+  "� groupLocation": "Uhuru",
+  "� createdAt": "2022-10-08T12:47:01.806Z"
+}]

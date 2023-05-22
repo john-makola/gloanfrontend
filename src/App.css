@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #d9eee4;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 5vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mobilebanner {
+  margin-top: 20px;
+  width: 50%;
+}
+.growsavings {
+  width: 70%;
+}
+.bannerText {
+  margin-top: 25px;
+  padding: 30px;
+}
+.save {
+  font-weight: "700";
+  color: #20a041;
+}
+.gloan {
+  font-weight: "700";
+  color: #20a041;
+}
+.discounts {
+  background-color: #d9eee4;
+  margin: 5px;
+  border-radius: 2%;
+}
+.quickloans {
+  color: #20a041;
+  font-style: italic;
+}
+.openaccount {
+  width: 100%;
+}
+
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Auth-form {
+  margin-top: 50px;
+  width: 400px;
+  box-shadow: 0 15px 15px 0 rgb(142, 196, 73);
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+  background-color: #D9EEE4;
+}
+
+.Auth-form-content {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+.login {
+  align-items: center !important;
+}
+.logoImage {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 50%;
+  margin-left: 25%;
+ 
+}
+.loadingPageText {
+  text-align: center;
+}
